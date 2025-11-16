@@ -20,7 +20,7 @@ function App() {
       </main>
       <footer className="py-10 border-t">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-gray-600">
-          <p>© {new Date().getFullYear()} Your Name — Digital Marketing Executive</p>
+          <p>© {new Date().getFullYear()} Vrajesh Tanna — Digital Marketing Executive</p>
           <div className="flex items-center gap-4">
             <a href="mailto:you@example.com" className="hover:text-gray-900">you@example.com</a>
             <a href="#" className="hover:text-gray-900">LinkedIn</a>

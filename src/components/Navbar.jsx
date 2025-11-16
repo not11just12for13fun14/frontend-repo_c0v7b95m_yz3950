@@ -23,7 +23,7 @@ export default function Navbar() {
     <header className={`fixed top-0 left-0 right-0 z-50 transition-all ${scrolled ? 'backdrop-blur bg-white/70 shadow-sm' : 'bg-transparent'}`}>
       <nav className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between">
         <a href="#" className="font-bold text-lg sm:text-xl tracking-tight">
-          <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-500 bg-clip-text text-transparent">Your Name</span>
+          <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-500 bg-clip-text text-transparent">Vrajesh Tanna</span>
         </a>
 
         <div className="hidden md:flex items-center gap-8">
